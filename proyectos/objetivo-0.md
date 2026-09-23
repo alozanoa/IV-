@@ -27,7 +27,7 @@ iniciales.
 | https://github.com/Kevings7/OptiBalsa/pull/1                                                                              | v0.0.3  | ✓         |
 | https://github.com/aaiterih/analizador-optativas/pull/1                                                                   | v0.0.1  | ✓         |
 | <!-- Enlace de sergiioolopeez -->                                                                                         |         |           |
-| https://github.com/alozanoa/nextBar/pull/1                                                                                | v0.0.2  |           |
+| [GestionAmigos](https://github.com/alozanoa/GestionAmigos/pull/1)                                                         | v0.0.3  |           |
 | https://github.com/KermitLaLacra/AsistenteCreativo/pull/1                                                                 | v0.0.1  |           |
 | <!-- Enlace de luciamarmiro -->                                                                                           |         |           |
 | https://github.com/claudiaa2112/deporte-sin-coche/pull/1                                                                  | v0.0.4  |           |
